@@ -1,4 +1,4 @@
-# Amazon Price Tracker [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Battery Info Notifier[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ### This is a simple python script which can be used to track the battery percentage of your laptop.
 ---
 ### Demo
