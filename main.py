@@ -14,4 +14,4 @@ batteryPercent= psutil.sensors_battery()
 percentage= batteryPercent.percent
 
 #Creating A Notification for 10 secs(duration=10)
-Notification(str(UserName),"You have "+ str(percentage)+"% battery remaining", duration=10).send() #Notification(Title, Description,Duration).send()
+Notification(str(UserName),f"You have {percentage}% battery remaining", duration=7).send() #Notification(Title, Description,Duration).send()
